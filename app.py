@@ -1,7 +1,7 @@
-#from flask import Flask, render_template, request
+"""call or import this #from flask import Flask, render_template, request
 #import pickle
 #import joblib
-#from joblib import load
+#from joblib import load....for the code"""
 
 # Initialize Flask app
 app = Flask(__name__)
